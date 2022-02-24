@@ -2,7 +2,7 @@
    
 ## :wave: Hello there, my name is Gervasio Monsalve <br>
 
-I am a Junior software developer trying to make my way into this tech world, I love Crossfit and riding motorcycles, there is nothing i can not do wheter it is a code problem to changing my car's oil (like if i had one ), born ready fellas, Shoot! :muscle: :muscle: <br>
+I am a Junior software developer trying to make my way into this tech world, I love Crossfit and riding motorcycles, there is nothing i can not do wheter it is a code problem or changing my car's oil (like if i had one ), born ready fellas, Shoot! :muscle: :muscle: <br>
 - 🔭 I’m currently working on whatever i can put my hands on...
 - 🌱 I’m currently learning everithing
 - 👯 I’m looking to collaborate on backend technologies
