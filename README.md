@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hello there my name is Gervasio Monsalve <br><br><br>
+### :speaker: checkout what i've been listening to 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11139827038)
 
-<!--
-**Germonsalve/Germonsalve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
