@@ -1,3 +1,5 @@
+<body  style="text-align: center;">
+   
 ## :wave: Hello there, my name is Gervasio Monsalve <br>
 
 I am a Junior software developer trying to make my way into this tech world, I love Crossfit and ride motorcycles, there is nothing i can not do wheter it is a code problem to changing my car's oil (like if i had one ), born ready fellas, Shoot! :muscle: :muscle: <br>
@@ -17,10 +19,10 @@ I am a Junior software developer trying to make my way into this tech world, I l
   <a href="https://open.spotify.com/user/11139827038"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
 
 ## :hammer: Technologies
-
+<p float="left">
 <img src="/images/javascript.png" margin width="90" alt="js"/>
 <img src="/images/react.png" width="90" alt="react"/>
-<img src="/images/html.png" width="90" alt="html"/>
+<img src="/images/HTML.png" width="90" alt="html"/>
 <img src="/images/css.png" width="90" alt="css"/>
 <img src="/images/nodejs.png" width="90" alt="node"/>
 <img src="/images/express.png" width="90" alt="express"/>
@@ -28,9 +30,9 @@ I am a Junior software developer trying to make my way into this tech world, I l
 <img src="/images/mysql-logo.png" width="90" alt="SQL"/>
 <img src="/images/bootstrap-logo.png" width="90" alt="bootstrap"/>
 <img src="/images/git-logo-minimal.png" width="90" alt="GIT"/>
-
+</p>
 
 ## :sound: Checkout what i've been listening to <br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11139827038)
 
-
+</body>
