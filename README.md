@@ -1,4 +1,4 @@
-<body  style="text-align: center;">
+<body>
    
 # :wave: Hello There, I am Gervasio Monsalve <br>
    <img src="https://www.codewars.com/users/Germonsalve/badges/large"  alt="Codewars"/>
@@ -23,7 +23,7 @@ I am a Junior software developer trying to make my way into this tech world, I l
 
 ## :hammer: Technologies
 <p float="left">
-<img src="/images/javascript.png" margin width="90" alt="js"/>
+<img src="/images/javascript.png" width="90" alt="js"/>
 <img src="/images/react.png" width="90" alt="react"/>
 <img src="/images/HTML.png" width="90" alt="html"/>
 <img src="/images/css.png" width="90" alt="css"/>
