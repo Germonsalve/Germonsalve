@@ -1,6 +1,7 @@
 <body  style="text-align: center;">
    
 # :wave: Hello There, I am Gervasio Monsalve <br>
+   <img src="https://www.codewars.com/users/Germonsalve/badges/large"  alt="Codewars"/>
 
 I am a Junior software developer trying to make my way into this tech world, I love Crossfit and riding motorcycles, there is nothing i can not do wheter it is a code problem or changing my car's oil (like if i had one ), born ready fellas, Shoot! :muscle: :muscle: <br>
 - 🔭 I’m currently working on whatever i can put my hands on...
@@ -8,6 +9,8 @@ I am a Junior software developer trying to make my way into this tech world, I l
 - 👯 I’m looking to collaborate on backend technologies
 - 🤔 I’m looking for help with helping others
 - ⚡ useful quote: “First, solve the problem. Then, write the code.” – Connor Mcgregor
+   <br>
+  
 
 ## :phone: You can find me here <br>
   <a href="mailto:germonsalve@icloud.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
